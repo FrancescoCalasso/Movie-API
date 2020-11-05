@@ -1,4 +1,4 @@
-# Python Movie Tracker
+# Movie database and personal tracker
 Thanks to IMDB public and free API (OMDB), this is a very basic Personal Movie tracker script, made in Python using PySimpleGUI, able to find TV shows and movies infos and add 'em to your watchlist or future wantlist.
 
 ## Requirements
